@@ -1,5 +1,3 @@
-Claro — aquí tienes el README con emoticones añadidos:
-
 ## README — Cypress QA Automation: Technology with Purpose (Santex) 🚀
 
 Descripción
